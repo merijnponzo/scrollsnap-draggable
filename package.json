@@ -14,7 +14,6 @@
   "dependencies": {
     "@tannerhodges/snap-slider": "v3",
     "animated-scroll-to": "^2.3.0",
-    "gsap": "^3.11.5",
     "scroll-snap-api": "^1.0.2"
   }
 }
